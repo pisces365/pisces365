@@ -1,4 +1,10 @@
+<div style="display: block; ">
 <p>
+  🔭 I’m currently working on IoV </br>
+  🌱 I’m currently learning Computer Vision and Game Engine Development</br>
+  📫 You can contact me via email: yangjiening.mail@bupt.edu.cn</br>
+</p>
+</div><div style="display: block">
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=pisces365&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -13,13 +19,8 @@
     <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Adobe-DA1F26?style=flat-square&logo=Adobe&logoColor=white"/>
   </p>
-</p>
+</div>
 
-<p>
-  🔭 I’m currently working on IoV </br>
-  🌱 I’m currently learning Computer Vision and Game Engine Development</br>
-  📫 You can contact me via email: yangjiening.mail@bupt.edu.cn</br>
-</p>
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
