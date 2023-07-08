@@ -12,14 +12,14 @@
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Adobe-DA1F26?style=flat-square&logo=Adobe&logoColor=white"/>
-
+  </p>
 </p>
 
-
+<p>
   🔭 I’m currently working on IoV </br>
   🌱 I’m currently learning Computer Vision and Game Engine Development</br>
   📫 You can contact me via email: yangjiening.mail@bupt.edu.cn</br>
-
+</p>
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
